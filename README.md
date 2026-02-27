@@ -1,4 +1,4 @@
-# Sustantiva · Repositorio Educativo Full-Stack
+# Repositorio Educativo Full-Stack
 
 Colección de material formativo para aprender **Frontend**, **Python**, **Bases de Datos** y **Django** mediante ejercicios diarios, mini-proyectos y laboratorios prácticos.
 
